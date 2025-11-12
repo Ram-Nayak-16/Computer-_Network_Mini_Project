@@ -1,4 +1,3 @@
-# Computer-_Network_Mini_Project
 # Simple LAN Chat Application (Python)
 
 This is a simple LAN-based chat application built using Python's socket programming.
@@ -34,5 +33,4 @@ This is a simple LAN-based chat application built using Python's socket programm
 - Change `HOST` in `client.py` to the **server's IP address** if not on localhost.
 
 ---
-Created by: Ram
-
+Created by: Ram Chandra Nayak and Suarabh singh

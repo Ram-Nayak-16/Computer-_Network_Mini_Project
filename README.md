@@ -7,7 +7,7 @@
 ![TCP](https://img.shields.io/badge/Protocol-TCP%20Sockets-00C9A7?style=for-the-badge&logo=cisco&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-### 🚀 [**▶ Live Dashboard →**](https://computer-network-mini-project-ramchandra.streamlit.app)
+### 🚀 [**▶ Live Dashboard →**](https://computer-networkminiproject-4umuq8gartcwonfwpn6rcp.streamlit.app/)
 
 *A real-time LAN chat application using Python TCP sockets, with a beautiful interactive Streamlit dashboard.*
 
@@ -130,7 +130,7 @@ CLIENT                              SERVER
 
 ## 📸 Dashboard Preview
 
-> Open the [**Live Dashboard**](https://computer-network-mini-project-ramchandra.streamlit.app) to interact with the full UI.
+> Open the [**Live Dashboard**](https://computer-networkminiproject-4umuq8gartcwonfwpn6rcp.streamlit.app/) to interact with the full UI.
 
 ---
 
